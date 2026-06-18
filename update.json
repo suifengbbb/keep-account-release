@@ -1,0 +1,8 @@
+{
+    "versionName":  "1.0.1",
+    "versionCode":  2,
+    "apkUrl":  "https://github.com/suifengbbb/keep-account-release/releases/download/v1.0.1/keep-account-1.0.1.apk",
+    "releaseNotes":  "新增自托管 App 内更新、GitHub 仓库式同步和本地安全备份恢复保护。",
+    "required":  false,
+    "sha256":  "2D5E79838DF34AEBA1552989D09F93A04D9613A3E76430E8F08AE8A1354C3A47"
+}
