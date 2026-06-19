@@ -1,8 +1,8 @@
 {
-    "versionName":  "1.0.1",
-    "versionCode":  2,
-    "apkUrl":  "https://github.com/suifengbbb/keep-account-release/releases/download/v1.0.1/keep-account-1.0.1.apk",
-    "releaseNotes":  "新增自托管 App 内更新、GitHub 仓库式同步和本地安全备份恢复保护。",
-    "required":  false,
-    "sha256":  "2D5E79838DF34AEBA1552989D09F93A04D9613A3E76430E8F08AE8A1354C3A47"
+  "versionName": "1.0.3",
+  "versionCode": 4,
+  "apkUrl": "https://github.com/suifengbbb/keep-account-release/releases/download/v1.0.3/keep-account-1.0.3.apk",
+  "releaseNotes": "修复鲨鱼记账 CSV 导入：支持 GBK/ANSI 编码、鲨鱼表头、中文日期和未关联账户。",
+  "required": false,
+  "sha256": "EBFB59A84D1C171E9B8E0530B8229007CAD454CA9E75CC0F6BFC93E90A77FD72"
 }
