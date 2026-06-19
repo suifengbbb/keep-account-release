@@ -1,8 +1,8 @@
 {
-  "versionName": "1.0.4",
-  "versionCode": 5,
-  "apkUrl": "https://github.com/suifengbbb/keep-account-release/releases/download/v1.0.4/keep-account-1.0.4.apk",
-  "releaseNotes": "修复账单页导入大量记录后只显示前 30 条的问题，现在账单明细会显示完整导入记录。",
+  "versionName": "1.0.5",
+  "versionCode": 6,
+  "apkUrl": "https://github.com/suifengbbb/keep-account-release/releases/download/v1.0.5/keep-account-1.0.5.apk",
+  "releaseNotes": "修复首页最近账单显示本月全部账单；账单明细跟随选中月份显示该月全部账单；报表结余按收入减去支出显示，并保持结余视图。",
   "required": false,
-  "sha256": "D16877BB5326F808BC0C86D6A5E5B4534BEEDD102111984C355981B926EFF708"
+  "sha256": "2A249A64A611CE90FA013ADF80D59F9FB0CE335625BE771835789D246F9B0165"
 }
