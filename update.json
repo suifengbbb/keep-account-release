@@ -1,8 +1,8 @@
 {
-  "versionName": "1.0.5",
-  "versionCode": 6,
-  "apkUrl": "https://github.com/suifengbbb/keep-account-release/releases/download/v1.0.5/keep-account-1.0.5.apk",
-  "releaseNotes": "修复首页最近账单显示本月全部账单；账单明细跟随选中月份显示该月全部账单；报表结余按收入减去支出显示，并保持结余视图。",
+  "versionName": "1.0.6",
+  "versionCode": 7,
+  "apkUrl": "https://github.com/suifengbbb/keep-account-release/releases/download/v1.0.6/keep-account-1.0.6.apk",
+  "releaseNotes": "新增最近账单和账单明细左滑删除快捷键；删除账单后会立刻刷新最近账单、账单明细、统计和余额数据。",
   "required": false,
-  "sha256": "2A249A64A611CE90FA013ADF80D59F9FB0CE335625BE771835789D246F9B0165"
+  "sha256": "9AE439F2873C2885F57A142A443B6713C9C1A18C232C76591EAEB690D24470B4"
 }
