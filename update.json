@@ -1,8 +1,8 @@
-﻿{
-    "versionName":  "1.0.12",
-    "versionCode":  13,
-    "apkUrl":  "https://github.com/suifengbbb/keep-account-release/releases/download/v1.0.12/keep-account-1.0.12.apk",
-    "releaseNotes":  "重做记一笔页面：新增图标分类网格、固定底部数字键盘、收入分类统一图标，并保留账户、日期、标签、报销、模板和转账能力。",
-    "required":  false,
-    "sha256":  "B8E2EEA616978E264681732AD66A2D9816BE6CE4638A44ACD03E7040904D1C06"
+{
+  "versionName": "1.0.12",
+  "versionCode": 13,
+  "apkUrl": "https://github.com/suifengbbb/keep-account-release/releases/download/v1.0.12/keep-account-1.0.12.apk",
+  "releaseNotes": "重做记一笔页面：新增图标分类网格、固定底部数字键盘、收入分类统一图标，并保留账户、日期、标签、报销、模板和转账能力。",
+  "required": false,
+  "sha256": "B8E2EEA616978E264681732AD66A2D9816BE6CE4638A44ACD03E7040904D1C06"
 }
