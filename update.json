@@ -1,1 +1,8 @@
-{"versionName":"1.0.13","versionCode":14,"apkUrl":"https://github.com/suifengbbb/keep-account-release/releases/download/v1.0.13/keep-account-1.0.13.apk","releaseNotes":"调整记一笔页面字号和分类图标大小，让界面更小巧；修正顶部黑色加号居中；替换启动图标并去除白边。","required":false,"sha256":"B9424449976A7BAA6E6677CE44B9F3B2D6DC3D38F70376B150A1DB527EF69640"}
+{
+  "versionName": "1.0.13",
+  "versionCode": 14,
+  "apkUrl": "https://github.com/suifengbbb/keep-account-release/releases/download/v1.0.13/keep-account-1.0.13.apk",
+  "releaseNotes": "调整记一笔页面字号和分类图标大小，让界面更小巧；修正顶部黑色加号居中；替换启动图标并去除白边。",
+  "required": false,
+  "sha256": "B9424449976A7BAA6E6677CE44B9F3B2D6DC3D38F70376B150A1DB527EF69640"
+}
