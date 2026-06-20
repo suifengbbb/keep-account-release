@@ -1,1 +1,8 @@
-{"versionName":"1.0.16","versionCode":17,"apkUrl":"https://github.com/suifengbbb/keep-account-release/releases/download/v1.0.16/keep-account-1.0.16.apk","releaseNotes":"改为预览方案 A 和 D：去掉淡入淡出，底部导航和账单详情使用纯整页滑动，记一笔页面从底部整页上滑。","required":false,"sha256":"7C5513B110B78E3216960B9CADCD0F857AB36356BEBC062481FDE462E25FEB29"}
+{
+  "versionName": "1.0.17",
+  "versionCode": 18,
+  "apkUrl": "https://github.com/suifengbbb/keep-account-release/releases/download/v1.0.17/keep-account-1.0.17.apk",
+  "releaseNotes": "动画速度加快三分之一：保持预览方案 A 和 D 的纯整页滑动，去掉淡入淡出，底部导航和账单详情更快切换，记一笔从底部更快上滑。",
+  "required": false,
+  "sha256": "48569638d69f8888aa9d1d0f1510ca7ce14d5434e0d276940f00575063fd64ac"
+}
