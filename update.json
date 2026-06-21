@@ -1,8 +1,8 @@
 {
-  "versionName": "1.0.18",
-  "versionCode": 19,
-  "apkUrl": "https://github.com/suifengbbb/keep-account-release/releases/download/v1.0.18/keep-account-1.0.18.apk",
-  "releaseNotes": "Unify notch and status bar colors with each page header. Main tabs follow the yellow header, Mine follows the white app bar, and Add Entry animates the top/status color when opening, closing, or switching expense/income/transfer.",
+  "versionName": "1.0.19",
+  "versionCode": 20,
+  "apkUrl": "https://github.com/suifengbbb/keep-account-release/releases/download/v1.0.19/keep-account-1.0.19.apk",
+  "releaseNotes": "修复刘海/状态栏颜色适配：Android 15 以上改为绘制顶部系统区域背景，首页、账单、报表跟随黄色顶部；我的跟随白色顶部；记一笔支出、收入、转账切换时同步变色。",
   "required": false,
-  "sha256": "789a5a77b2657a0e7ba780d071ebee688b884e24f3b8223b98d47357f486eaf7"
+  "sha256": "29ee9faa96dec266466ed5c8a2d57e721e03e93aab5f1019f3c92ec71a15d502"
 }
