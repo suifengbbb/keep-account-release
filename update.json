@@ -1,8 +1,8 @@
 {
-    "versionName":  "1.0.21",
-    "versionCode":  22,
-    "apkUrl":  "https://github.com/suifengbbb/keep-account-release/releases/download/v1.0.21/keep-account-1.0.21.apk",
-    "sha256":  "32a2f8c2170f75147980e7fcd74eb9005c1e4a82832887aef0b105be4ed94cba",
-    "releaseNotes":  "新增记一笔页面常用备注：按当前分类自动统计历史备注，使用满 3 次后显示，支持横向滑动，最多展示 15 条，点击即可快速填入备注。",
+    "versionName":  "1.0.22",
+    "versionCode":  23,
+    "apkUrl":  "https://github.com/suifengbbb/keep-account-release/releases/download/v1.0.22/keep-account-1.0.22.apk",
+    "sha256":  "ec65eed96dfe2b50352ad0223e6b7b832450e8abc688ead381eee69e32d09f6a",
+    "releaseNotes":  "常用备注栏去掉标题和次数显示，只保留可点击的备注标签；当前分类没有常用备注时不再显示空提示，让记一笔页面更简洁。",
     "required":  false
 }
