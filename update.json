@@ -1,8 +1,8 @@
 {
-    "versionName":  "1.0.23",
-    "versionCode":  24,
-    "apkUrl":  "https://github.com/suifengbbb/keep-account-release/releases/download/v1.0.23/keep-account-1.0.23.apk",
-    "sha256":  "703a868f84175358b7ed3f081a454347b2b944ad9f19068ec8d63d471221ce8b",
-    "releaseNotes":  "优化记一笔备注输入时的键盘布局，输入备注时隐藏自定义数字键盘，只保留备注区域随系统键盘上移。",
+    "versionName":  "1.0.24",
+    "versionCode":  25,
+    "apkUrl":  "https://github.com/suifengbbb/keep-account-release/releases/download/v1.0.24/keep-account-1.0.24.apk",
+    "sha256":  "cc3daa8fc967ae9b71b2d42238eece389027762898f5cc8ad120bc910bad48ed",
+    "releaseNotes":  "输入备注时，自定义数字键盘保留在底部不随系统键盘上移，备注输入区和快捷操作浮到系统键盘上方。",
     "required":  false
 }
