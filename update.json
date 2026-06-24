@@ -1,8 +1,8 @@
 {
-    "versionName":  "1.0.27",
-    "versionCode":  28,
-    "apkUrl":  "https://github.com/suifengbbb/keep-account-release/releases/download/v1.0.27/keep-account-1.0.27.apk",
-    "releaseNotes":  "修复 AI 账单识别金额解析和分类匹配：支持带符号/货币符号/数字类型金额，保留原始金额日期，减少超市、交通、彩票、餐饮等场景待确认，并避免随机猜早餐/午餐/晚餐。",
+    "versionName":  "1.0.28",
+    "versionCode":  29,
+    "apkUrl":  "https://github.com/suifengbbb/keep-account-release/releases/download/v1.0.28/keep-account-1.0.28.apk",
+    "releaseNotes":  "AI 识别账单草稿现在会默认使用“现金”账户：当 AI 未返回账户或返回本地不存在的账户时，自动填入现金，减少账户待确认；商户记忆和可匹配账户仍保持优先。",
     "required":  false,
-    "sha256":  "F34E34411EDB0ED03410D2765728038AF9107AE2CE910DF1B8FD6FB267D79159"
+    "sha256":  "ECAA8C13E91A560FFA3D7D0B04FBB31EB81276D15E4678644B7500C7D7F323DD"
 }
